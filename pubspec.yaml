@@ -1,0 +1,22 @@
+name: firebasepractica
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^4.1.0
+
+dev_dependencies:
+  change_app_package_name: ^1.1.0
+  
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
